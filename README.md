@@ -1,6 +1,18 @@
 # BAN5753-MiniProject
 
-### Steps Followed
+### Business Problem:
+- The objective of the classification is to identify clients who will subscribe (yes/no) for a term deposit. (Variable y: Target function).
+- The Bank wants us to conduct Exploratory Data Analysis (EDA) to identify relationships, and trends in data. For example correlations, bivariate analysis of target versus input variables, facts, univariate patterns, missing data.
+- Prescriptive recommendations
+- K-means Clustering.
+- Compare more than four different supervised algorithms
+
+### DataSet Information:
+- Data is about an XYZ bank’s direct marketing campaign. Marketing campaigns were driven by telephone calls.
+- Data Set In many cases, more than one contact for the same client was required., in order to access if the product (deposit) would be ('yes') or not ('no') subscribed
+- The purpose of the classification is to forecast whether the customer will signup (yes/no) a term deposit (variable y).
+- The dataset: XYZ_Bank_Deposit_Data_Classification.csv, 20 entries/columns, sorted by date between May 2008 and November 2010.
+
 To analyse the XYZ's marketing campaign, we ran 4 different models
 - Logistic Regression
 - Decision Tree
