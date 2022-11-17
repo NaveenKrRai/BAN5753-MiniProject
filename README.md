@@ -1,5 +1,5 @@
 # BAN5753-MiniProject
-## Team - Lambda
+## Team - Lamda
 
 ### Business Problem:
 - The objective of the classification is to identify clients who will subscribe (yes/no) for a term deposit. (Variable y: Target function).
